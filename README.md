@@ -1,5 +1,12 @@
 # Skills Library
 
+> **⚠️ DEPRECATED - This repository has been migrated**
+>
+> All skills from this repository have been migrated to [trounceabout/skills-workshop](https://github.com/trounceabout/skills-workshop).
+> Please use the skills-workshop repository for the latest versions and new skills.
+>
+> This repository is kept for historical reference only.
+
 A collection of useful Agent Skills for Claude Code. This repository contains reusable, well-documented skills that enhance Claude's capabilities and streamline common workflows.
 
 ## About Agent Skills
